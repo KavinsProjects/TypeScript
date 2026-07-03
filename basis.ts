@@ -39,10 +39,10 @@ sayHi("Hello this is kavin");
 function namee(): void {
     return 
 }
-const nofiyUser = (user : string): void => {
-    console.log("the Nofication is send to the :", user);
+const notifyUser = (user : string): void => {
+    console.log("the Notification is sent to:", user);
 }
-nofiyUser("kavin");
+notifyUser("kavin");
 //never
 
 // function throwNewError(content : string): never {

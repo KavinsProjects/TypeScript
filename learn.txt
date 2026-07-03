@@ -1,0 +1,30 @@
+TypeScript
+
+├── Variables & Types
+├── Arrays
+├── Objects
+├── Tuples
+├── Enums
+├── Type Aliases
+├── Union Types
+├── Functions
+├── Interfaces
+├── Classes
+├── Generics ⭐⭐⭐⭐⭐
+├── Utility Types ⭐⭐⭐⭐⭐
+├── Advanced Types
+├── Modules
+│
+└─────────────── React
+        │
+        ├── Props
+        ├── State
+        ├── Events
+        ├── Forms
+        ├── Refs
+        ├── Context
+        ├── Reducers
+        ├── Custom Hooks
+        ├── API Fetching
+        ├── React Router
+        └── Project Patterns
